@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/"
+         Id="e388062a-ba64-4622-bf79-5a3c1657dcf6"
+         ReceiverAssembly="eAuthentication.eAuthenticationClaimsProvider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=23f0a367af5ac142"
+         ReceiverClass="eAuthentication.eAuthenticationClaimsProvider.eAuthenticationClaimsProviderFeatureReceiver"
+         Scope="Farm"
+         Title="eAuthenticationClaimsProvider"/>

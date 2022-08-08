@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="56786e9b-f7f4-45e7-947c-064d5f5013ae" solutionId="56786e9b-f7f4-45e7-947c-064d5f5013ae" resetWebServer="true" sharePointProductVersion="16.0" name="eAuthenticationClaimsProvider" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="eAuthentication.eAuthenticationClaimsLibrary.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\eAuthenticationClaimsLibrary\eAuthenticationClaimsLibrary.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="e3e698df-ce0d-4d1b-9104-5e3f4b8c6dfd" />
+  </features>
+</package>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="443b434e-c760-4b9e-9462-9205e8206b52" featureId="e388062a-ba64-4622-bf79-5a3c1657dcf6" imageUrl="" scope="Farm" solutionId="00000000-0000-0000-0000-000000000000" title="eAuthenticationClaimsProvider" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel" />
